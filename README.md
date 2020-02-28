@@ -46,6 +46,7 @@ Describe any challenges encountered while building the app.
 
 <img src="https://i.imgur.com/3Njih4h.gif" width=250><br>
 [Imgur](https://i.imgur.com/me1OX3o.gifv)
+https://imgur.com/a/3Njih4h
 
 ### Notes
 Describe any challenges encountered while building the app.
